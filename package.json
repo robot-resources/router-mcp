@@ -1,0 +1,20 @@
+{
+  "name": "@robot-resources/router-mcp",
+  "mcpName": "io.github.robot-resources/router",
+  "version": "0.1.1",
+  "description": "MCP server for Robot Resources Router — stats, config, and model comparison tools",
+  "keywords": [
+    "mcp",
+    "router",
+    "llm",
+    "cost-optimization",
+    "model-context-protocol",
+    "robot-resources"
+  ],
+  "homepage": "https://robotresources.ai",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robot-resources/router-mcp.git"
+  },
+  "license": "MIT"
+}
