@@ -2,6 +2,8 @@
 
 > MCP server for managing Robot Resources Router — stats, config, and model comparison.
 
+[![Robot Resources Router MCP server](https://glama.ai/mcp/servers/robot-resources/router-mcp/badges/card.svg)](https://glama.ai/mcp/servers/robot-resources/router-mcp)
+
 ## What is Robot Resources?
 
 **Human Resources, but for your AI agents.**
