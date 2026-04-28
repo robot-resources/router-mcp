@@ -1,5 +1,7 @@
 # @robot-resources/router-mcp
 
+> **⚠️ DEPRECATED — npm package no longer published.** The Router MCP server has been replaced by the in-process Router plugin shipped with [`@robot-resources/router`](https://www.npmjs.com/package/@robot-resources/router). A standalone Router MCP for non-OpenClaw agents is on the roadmap. For Router today, use the OpenClaw plugin (`npx robot-resources`), the JS library, the Python SDK (`pip install robot-resources`), or the HTTP API at `https://api.robotresources.ai/v1/route`. See [robotresources.ai/docs](https://robotresources.ai/docs).
+
 > MCP server for managing Robot Resources Router — stats, config, and model comparison.
 
 ## What is Robot Resources?
